@@ -44,6 +44,7 @@
 .center .text .hero_title {
   font-size: 5.5rem;
   color: #efefef;
+  margin-top: 40px;
 }
 .text .hero_title span {
   color: var(--tettiary-cta-color);
